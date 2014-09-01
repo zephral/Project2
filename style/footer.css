@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.temp{
+ border-style: solid;
+    border-width: 1px;	
+}
+.footer_wrap{
+	margin-top:50px;
+	background-color:#C2C0b4;
+	width:100%;
+	height:250px;	
+}
+.footer{
+	margin:auto;
+	width:800px;
+	height:250px;	
+}
+.footer_Contact_form_wrap{
+	float:left;
+	width:295px;
+	height:250px;
+	color:#fff;
+}
+.footer_menu{
+	float:left;
+	width:500px;
+	height:50px;
+}
+.footer_contact_info{
+	float:left;
+	width:485px;
+	height:200px;	
+}
+input[type="text"], textarea {
+	color:#fff;
+  background-color : #61605A; 
+
+}
+.footer_menu {
+  background: #C2C0B4;
+}
+.footer_menu .inner{
+	float:right;	
+}
+.footer_menu li {
+  display: inline-block;
+  line-height: 85px;
+	font-weight:normal;
+	color:#000000;
+	letter-spacing:0pt;
+	word-spacing:0pt;
+	font-size:11px;
+	text-align:left;
+	font-family:arial, helvetica, sans-serif;line-height:0;
+
+}
+
+.footer_menu a {
+  color: #000;
+  padding: 5px 6px;
+  text-transform: uppercase;
+}
+
+.footer_contact_info{
+	padding-right:5px;
+	display: inline-block;
+	font-weight:normal;
+	color:#000000;
+	letter-spacing:0pt;
+	word-spacing:0pt;
+	font-size:15px;
+	text-align:right;
+	font-family:arial, helvetica, sans-serif;
+	line-height:1.5;	
+}
