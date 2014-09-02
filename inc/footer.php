@@ -17,9 +17,9 @@
 <input type="text" name="name" id="name" value='Phone'  />
 <br>
 
-<input type="text" name="name" id="name" value='Message *'  />
+<textarea  name="name" id="name" >message </textarea>
 <br>
-<button type="submit">Sign-up</button>
+<button type="submit">Send</button>
 <div class="spacer"></div>
 
 </form>
